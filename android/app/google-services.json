@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18549286938",
+    "firebase_url": "https://antammoe.firebaseio.com",
+    "project_id": "antammoe",
+    "storage_bucket": "antammoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18549286938:android:b2c38d44ad4bab19fb09a3",
+        "android_client_info": {
+          "package_name": "antamgold.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18549286938-brqjm9kc35qanjol81dbpmcl28phfrq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqgLns4TNUyrzyuoFB4uAjvVU6DUl1jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18549286938-brqjm9kc35qanjol81dbpmcl28phfrq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
